@@ -1,0 +1,3 @@
+﻿  opencv47_test.cpp
+D:\opencv-4.7\opencv\build\include\opencv2\objdetect\aruco_board.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  opencv47_test.vcxproj -> D:\Users\Administrator\source\repos\opencv47_test\x64\Debug\opencv47_test.exe
